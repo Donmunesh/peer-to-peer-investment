@@ -1,0 +1,360 @@
+Uri: https://www.standardincentive.com/
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Poppins&display=swap
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css.css
+Content Type: text/css
+
+Uri: https://chat.whatsapp.com/H4DFDNnpwaPFPQpUmbhtIX
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\H4DFDNnpwaPFPQpUmbhtIX.html
+Content Type: text/html
+
+Uri: https://maps.googleapis.com/maps/api/js?key=&sensor=false&extension=.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://www.standardincentive.com/img/backgrounds/bg-event-2.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\backgrounds\bg-event-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/img/backgrounds/bg-event-3.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\backgrounds\bg-event-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/fonts/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.standardincentive.com/fonts/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.standardincentive.com/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.standardincentive.com/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.standardincentive.com/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.standardincentive.com/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.standardincentive.com/fonts/IcoMoon/icomoon.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\IcoMoon\icomoon.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/fonts/IcoMoon/IcoMoon-Free.ttf
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\IcoMoon\IcoMoon-Free.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.standardincentive.com/fonts/linearicon/style.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\linearicon\style.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/fonts/linearicon/fonts/Linearicons-Free.eot?w118d
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\linearicon\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.standardincentive.com/fonts/linearicon/fonts/Linearicons-Free.eot?
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\linearicon\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.standardincentive.com/fonts/linearicon/fonts/Linearicons-Free.woff2?w118d
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\linearicon\fonts\Linearicons-Free.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.standardincentive.com/fonts/linearicon/fonts/Linearicons-Free.woff?w118d
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\linearicon\fonts\Linearicons-Free.woff
+Content Type: application/font-woff
+
+Uri: https://www.standardincentive.com/fonts/linearicon/fonts/Linearicons-Free.ttf?w118d
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\linearicon\fonts\Linearicons-Free.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.standardincentive.com/fonts/linearicon/fonts/Linearicons-Free.svg?w118d
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\fonts\linearicon\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://www.standardincentive.com/css/jquery.mmenu.all.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css\jquery.mmenu.all.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/css/fancySelect.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css\fancySelect.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\css\settings.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.standardincentive.com/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://www.standardincentive.com/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.standardincentive.com/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.standardincentive.com/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\css\openhand.cur.ico
+Content Type: image/x-icon
+
+Uri: https://www.standardincentive.com/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\css\closedhand.cur.ico
+Content Type: image/x-icon
+
+Uri: https://www.standardincentive.com/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://www.standardincentive.com/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.standardincentive.com/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.standardincentive.com/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.standardincentive.com/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://www.standardincentive.com/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://www.standardincentive.com/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\css\layers.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\css\navigation.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/img/down.png
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\down.png
+Content Type: image/png
+
+Uri: https://www.standardincentive.com/img/backgrounds/bg-1.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\backgrounds\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/img/backgrounds/bg-4.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\backgrounds\bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/css/custom.css
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\css\custom.css
+Content Type: text/css
+
+Uri: https://www.standardincentive.com/img/logo.png
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\logo.png
+Content Type: image/png
+
+Uri: https://www.standardincentive.com/login
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\login.html
+Content Type: text/html
+
+Uri: https://www.standardincentive.com/register
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\register.html
+Content Type: text/html
+
+Uri: https://www.standardincentive.com/img/full.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\full.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/img/pic01.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\pic01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/img/growth-3078543_1920.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\growth-3078543_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/img/full-2.jpg
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\img\full-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.standardincentive.com/js/vendor/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/vendor/bootstrap.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\vendor\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/jquery.sticky-kit.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\jquery.sticky-kit.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/jquery.mmenu.all.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\jquery.mmenu.all.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/mobilemenu.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\mobilemenu.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.kenburn.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.migration.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/revolution/js/extensions/revolution.extension.video.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/slider-home-1.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\slider-home-1.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/owl.carousel.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/owl.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\owl.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/jquery.malihu.PageScroll2id.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\jquery.malihu.PageScroll2id.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/contact2.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\contact2.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/royal_preloader.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\royal_preloader.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/jquery.parallax-1.1.3.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\jquery.parallax-1.1.3.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/fancySelect.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\fancySelect.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/lang-select.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\lang-select.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/cb-select.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\cb-select.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/lightbox.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\lightbox.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/counterup.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\counterup.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/custom-isotope.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\custom-isotope.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/plugins/template.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\plugins\template.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/js/custom-home.js
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\js\custom-home.js
+Content Type: application/javascript
+
+Uri: https://www.standardincentive.com/forgot
+File Name: C:\Downloaded Web Sites\www.standardincentive.com\forgot.html
+Content Type: text/html
+
